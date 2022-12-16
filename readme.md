@@ -16,8 +16,3 @@ foodthunder.up.railway.app/
 ![image](https://user-images.githubusercontent.com/56390249/207504642-105828da-bac5-46bd-a96f-8b2db96bf4d4.png)
 ![image](https://user-images.githubusercontent.com/56390249/207504685-47887fce-b995-4449-8eb2-38a8ba37fe57.png)
 ![image](https://user-images.githubusercontent.com/56390249/207504696-6935eefb-f829-4ee7-aa20-8af75ea994b3.png)
-
-
-#� �T�h�u�n�d�e�r�-�F�o�o�d�-�D�S�
-�
-�
